@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Imperative learning progress</title>
+  </head>
+  <body>
+    <section>
+      <h1>Learning progress</h1>
+      <p id="completed"></p>
+      <p id="remaining"></p>
+    </section>
+    <script>
+      const completedLessons = 1;
+      const totalLessons = 4;
+      const remainingLessons = totalLessons - completedLessons;
+      const completedElement = document.getElementById('completed');
+      const remainingElement = document.getElementById('remaining');
+
+      if (completedElement !== null && remainingElement !== null) {
+        completedElement.textContent = 'Completed: ' + completedLessons + ' of ' + totalLessons;
+        remainingElement.textContent = 'Remaining: ' + remainingLessons;
+      }
+    </script>
+  </body>
+</html>

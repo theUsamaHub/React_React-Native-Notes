@@ -1,6 +1,6 @@
 # Learning roadmap
 
-One primary topic per study day. Each day's document teaches web first, then native, then comparison and two small exercises. Days are study units, not calendar deadlines. Read in order: later days assume earlier concepts. This is an outline only; only Day 01 has been generated.
+One primary topic per study day. Each day's document teaches web first, then native, then comparison and two small exercises. Days are study units, not calendar deadlines. Read in order: later days assume earlier concepts. This is an outline only; Days 01 and 02 have been generated.
 
 ## Phase 1 — Fundamentals
 

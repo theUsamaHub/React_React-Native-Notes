@@ -5,8 +5,8 @@ A practical, one-topic-per-day journey from React fundamentals to production web
 ## Start here
 
 1. Read the [roadmap](ROADMAP.md).
-2. Study [Day 01: Introduction to React.js and React Native](lectures/day-01/lecture.md).
-3. Attempt the two exercises linked from the lecture, then answer the [knowledge check](lectures/day-01/questions.md).
+2. Continue with [Day 02: Declarative UI vs imperative JavaScript](lectures/day-02/lecture.md). [Day 01](lectures/day-01/lecture.md) is available for revision and is learner-confirmed complete.
+3. Attempt the two exercises linked from the current lecture, then answer its [knowledge check](lectures/day-02/questions.md).
 4. Report completion or request an exercise review. [Progress](PROGRESS.md) is updated only when you confirm your work.
 
 Allow about 25 minutes for reading and 20–40 minutes for practice. Longer reference sections can be revisited later.
@@ -14,10 +14,12 @@ Allow about 25 minutes for reading and 20–40 minutes for practice. Longer refe
 ## Repository layout
 
 ```text
-lectures/day-01/          Lecture and conceptual questions
+lectures/day-01/          Completed introductory lesson
+lectures/day-02/          Declarative UI lecture and questions
 examples/react-web/      Complete illustrative web components
 examples/react-native/   Complete illustrative native components
-exercises/day-01/         Unsolved starter files and acceptance criteria
+exercises/day-01/         Original starter files and acceptance criteria
+exercises/day-02/         Current unsolved exercises
 ROADMAP.md               Full topic sequence; not future lectures
 PROGRESS.md              Learner-confirmed progress
 ```
@@ -39,6 +41,6 @@ Use functional components, TypeScript, and Expo. Explain prerequisites before us
 
 ## Git and GitHub
 
-Default branch: `main`. Intended remote: `<GITHUB_REMOTE_URL>` (documentation placeholder only). The initial materials are committed locally. No remote is configured and nothing is pushed until you provide a real URL.
+Default branch: `main`. Remote: [React_React-Native-Notes](https://github.com/theUsamaHub/React_React-Native-Notes). The initial Day 01 materials were pushed on 2026-10-14. Later local commits are not automatically evidence of a successful push.
 
-When supplied, inspect local changes, remotes, and remote history before configuring `origin` and pushing. Preserve any existing branch/history; never force-push. Use focused commit messages and keep generated artifacts and secrets out of Git.
+Before pushing, inspect local changes, remotes, and remote history. Preserve any existing branch/history; never force-push. Use focused commit messages and keep generated artifacts and secrets out of Git.
