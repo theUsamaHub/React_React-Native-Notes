@@ -5,7 +5,7 @@ A practical, one-topic-per-day journey from React fundamentals to production web
 ## Start here
 
 1. Read the [roadmap](ROADMAP.md).
-2. Study in sequence: [Day 02: Declarative UI](lectures/day-02/lecture.md), [Day 03: JSX and TSX](lectures/day-03/lecture.md), then [Day 04: Functional components](lectures/day-04/lecture.md). [Day 01](lectures/day-01/lecture.md) is learner-confirmed complete. Days 03 and 04 were prepared together at your catch-up request; Day 02 completion is still unconfirmed.
+2. Days 01–04 are learner-confirmed complete. Continue in sequence with [Day 05: Platform UI building blocks](lectures/day-05/lecture.md), [Day 06: Modules and imports/exports](lectures/day-06/lecture.md), then [Day 07: Component composition](lectures/day-07/lecture.md). This three-day batch was explicitly requested; each lesson retains its own topic and exercises.
 3. Attempt the two exercises and knowledge check linked from each lecture.
 4. Report completion or request an exercise review. [Progress](PROGRESS.md) is updated only when you confirm your work.
 
@@ -18,12 +18,18 @@ lectures/day-01/          Completed introductory lesson
 lectures/day-02/          Declarative UI lecture and questions
 lectures/day-03/          JSX and TSX lecture and questions
 lectures/day-04/          Functional components lecture and questions
+lectures/day-05/          Platform UI building blocks
+lectures/day-06/          Modules and imports/exports
+lectures/day-07/          Component composition
 examples/react-web/      Complete illustrative web components
 examples/react-native/   Complete illustrative native components
 exercises/day-01/         Original starter files and acceptance criteria
 exercises/day-02/         Current unsolved exercises
 exercises/day-03/         JSX and TSX practice
 exercises/day-04/         Functional component practice
+exercises/day-05/         Platform element practice
+exercises/day-06/         Module practice
+exercises/day-07/         Composition practice
 ROADMAP.md               Full topic sequence; not future lectures
 PROGRESS.md              Learner-confirmed progress
 ```
