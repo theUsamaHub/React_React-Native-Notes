@@ -11,6 +11,12 @@ A practical, one-topic-per-day journey from React fundamentals to production web
 
 Allow about 25 minutes for reading and 20–40 minutes for practice. Longer reference sections can be revisited later.
 
+## Latest requested lessons
+
+Days 01–04 are confirmed complete. Days 05–07 remain available for study/revision; their completion has not been confirmed. Study these new lessons in order, following the roadmap prerequisites.
+
+- [Day 08 — Rendering and reconciliation](lectures/day-08/lecture.md) — includes linked web/native exercises and questions.
+
 ## Repository layout
 
 ```text
