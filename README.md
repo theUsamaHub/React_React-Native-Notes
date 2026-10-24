@@ -17,6 +17,8 @@ Days 01–04 are confirmed complete. Days 05–07 remain available for study/rev
 
 - [Day 08 — Rendering and reconciliation](lectures/day-08/lecture.md) — includes linked web/native exercises and questions.
 
+- [Day 09 — Props](lectures/day-09/lecture.md) — includes linked web/native exercises and questions.
+
 ## Repository layout
 
 ```text
