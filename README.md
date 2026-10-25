@@ -23,6 +23,8 @@ Days 01–04 are confirmed complete. Days 05–07 remain available for study/rev
 
 - [Day 11 — Conditional rendering](lectures/day-11/lecture.md) — includes linked web/native exercises and questions.
 
+- [Day 12 — Lists and keys](lectures/day-12/lecture.md) — includes linked web/native exercises and questions.
+
 ## Repository layout
 
 ```text

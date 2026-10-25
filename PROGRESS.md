@@ -15,6 +15,7 @@ Updated: 2026-10-25. Material availability is separate from learner completion. 
 | 09 | Props | Available; not confirmed read | Not Started | Not Started | Not Started |
 | 10 | Children | Available; not confirmed read | Not Started | Not Started | Not Started |
 | 11 | Conditional rendering | Available; not confirmed read | Not Started | Not Started | Not Started |
+| 12 | Lists and keys | Available; not confirmed read | Not Started | Not Started | Not Started |
 
 Allowed statuses: **Not Started**, **In Progress**, **Completed**, **Needs Revision**. Add a day's row when its materials are generated. Mark Completed only after learner confirmation of the lecture and both exercises; never infer completion from file creation or a passing check. Record partial results and revision needs explicitly.
 
@@ -34,3 +35,5 @@ Allowed statuses: **Not Started**, **In Progress**, **Completed**, **Needs Revis
 - 2026-10-24: Day 10 prepared as part of the explicitly requested Days 08–10 batch. Completion remains unconfirmed; Days 05–07 statuses are unchanged.
 
 - 2026-10-25: Day 11 prepared in the explicitly requested Days 11–12 batch. Prior completion statuses remain unchanged.
+
+- 2026-10-25: Day 12 prepared in the explicitly requested Days 11–12 batch. Prior completion statuses remain unchanged.
