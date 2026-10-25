@@ -21,6 +21,8 @@ Days 01–04 are confirmed complete. Days 05–07 remain available for study/rev
 
 - [Day 10 — Children](lectures/day-10/lecture.md) — includes linked web/native exercises and questions.
 
+- [Day 11 — Conditional rendering](lectures/day-11/lecture.md) — includes linked web/native exercises and questions.
+
 ## Repository layout
 
 ```text
