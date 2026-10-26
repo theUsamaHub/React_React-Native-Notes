@@ -29,6 +29,8 @@ Days 01–04 are confirmed complete. Days 05–07 remain available for study/rev
 
 - [Day 14 — State with useState](lectures/day-14/lecture.md) — includes linked web/native exercises and questions.
 
+- [Day 15 — State updates](lectures/day-15/lecture.md) — includes linked web/native exercises and questions.
+
 ## Repository layout
 
 ```text
