@@ -17,6 +17,7 @@ Updated: 2026-10-26. Material availability is separate from learner completion. 
 | 11 | Conditional rendering | Available; not confirmed read | Not Started | Not Started | Not Started |
 | 12 | Lists and keys | Available; not confirmed read | Not Started | Not Started | Not Started |
 | 13 | Event handling | Available; not confirmed read | Not Started | Not Started | Not Started |
+| 14 | State with useState | Available; not confirmed read | Not Started | Not Started | Not Started |
 
 Allowed statuses: **Not Started**, **In Progress**, **Completed**, **Needs Revision**. Add a day's row when its materials are generated. Mark Completed only after learner confirmation of the lecture and both exercises; never infer completion from file creation or a passing check. Record partial results and revision needs explicitly.
 
@@ -40,3 +41,5 @@ Allowed statuses: **Not Started**, **In Progress**, **Completed**, **Needs Revis
 - 2026-10-25: Day 12 prepared in the explicitly requested Days 11–12 batch. Prior completion statuses remain unchanged.
 
 - 2026-10-26: Day 13 prepared in the explicitly requested Days 13–15 batch, with a separate commit and requested GitHub push. Prior completion statuses remain unchanged.
+
+- 2026-10-26: Day 14 prepared in the explicitly requested Days 13–15 batch, with a separate commit and requested GitHub push. Prior completion statuses remain unchanged.
